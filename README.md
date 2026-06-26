@@ -14,7 +14,7 @@ It is designed to showcase the architecture and systems engineering required to 
 
 ---
 
-## 🌟 Why This Matters
+##  Why This Matters
 
 DyerAI7 demonstrates:
 
@@ -28,7 +28,7 @@ This repository serves as proof of capability, engineering depth, and architectu
 
 ---
 
-## ✔️ What’s Included (Public Core)
+##  What’s Included (Public Core)
 
 ### **Next‑Gen Reasoning Stack**
 - Tree of Thoughts (ToT)  
@@ -76,7 +76,7 @@ This repository serves as proof of capability, engineering depth, and architectu
 
 ---
 
-## ❌ What’s NOT Included (Private System)
+##  What’s NOT Included (Private System)
 
 The following remain proprietary and are **not** part of the DyerAI7 public release:
 
@@ -118,7 +118,7 @@ src/ai_engineer/
 
 ---
 
-## 🗺️ Public Roadmap
+## Public Roadmap
 
 ### **Short-Term**
 - Expand evaluation suites (Arena-Hard, custom benchmarks)  
@@ -147,7 +147,7 @@ For professional inquiries, collaboration, or opportunities:
 **matt.dyertech@gmail.com**
 
 **🌐 GitHub:**  
-https://github.com/YOUR_USERNAME
+https://github.com/sippiairborne
 
 ---
 
